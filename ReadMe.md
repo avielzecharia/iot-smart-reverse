@@ -26,7 +26,7 @@ Smart Reverse POC which can be easily used in any vehicle.
 ![getting_close](doc_img/Poker_Face.jpg "Getting close")
 
 ### Smart Reverse Back ###
-![smart_reverse_back](doc_img/smartReverse_Back.jpg "Smart Reverse Back")
+![smart_reverse_back](doc_img/SmartReverse_Back.jpg "Smart Reverse Back")
 
 ### Wrong Password ###
 ![wrong_password](doc_img/Wrong_Password.jpg "Wrong Password")
